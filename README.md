@@ -5,13 +5,12 @@ A LangGraph agent that takes in quarterly program reports, extracts and validate
 
 # Expected Outputs
 Extraction
-<img width="590" height="369" alt="Screenshot 2026-11-19 at 6 09 33 PM" src="https://github.com/user-attachments/assets/e7935097-18c0-4702-a957-591e60f3f1cb" />
+<img width="1803" height="433" alt="Screenshot 2026-11-19 at 6 09 33 PM" src="https://github.com/user-attachments/assets/53685dff-5706-47d4-84df-fb5aa58d03f9" />
 Rejection
-<img width="590" height="369" alt="Screenshot 2026-11-20 at 11 08 26 AM" src="https://github.com/user-attachments/assets/cf244c7c-f749-4b02-b3c6-38dd1e0ff620" />
+<img width="1805" height="683" alt="Screenshot 2026-11-20 at 11 08 26 AM" src="https://github.com/user-attachments/assets/ec230777-75f3-48f5-a9fe-40dec7b0ab33" />
 Acceptance & Approval
-<img width="590" height="369" alt="Screenshot 2026-11-19 at 5 55 11 PM" src="https://github.com/user-attachments/assets/f85b9faf-5c9d-49a1-9552-c404881a51ef" />
-<img width="590" height="369" alt="Screenshot 2026-11-19 at 5 54 37 PM" src="https://github.com/user-attachments/assets/3fe8dfaa-6352-43dd-ab5a-4961c9321ab4" />
-
+<img width="1798" height="1033" alt="Screenshot 2026-11-19 at 5 55 11 PM" src="https://github.com/user-attachments/assets/8f144592-d668-4b1f-9141-24090f7287f3" />
+<img width="1802" height="942" alt="Screenshot 2026-11-19 at 5 54 37 PM" src="https://github.com/user-attachments/assets/9e6d0f43-7de3-4ab6-aee5-ce56583a50f9" />
 
 ## How it works
 
