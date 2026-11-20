@@ -1,0 +1,8 @@
+Quarterly Program Report
+Organization: Aotearoa AI Collective
+Country: New Zealand
+Quarter: Q2
+Year: 2026
+Participants: 87
+Budget spent: $21,300
+Highlights: Published the first dataset release.

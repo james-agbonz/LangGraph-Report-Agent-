@@ -1,0 +1,11 @@
+langgraph
+langgraph-checkpoint-sqlite
+openai
+fastapi
+uvicorn
+jinja2
+python-multipart
+pytest
+httpx
+google-api-python-client
+google-auth-oauthlib
