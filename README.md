@@ -4,9 +4,10 @@
 A LangGraph agent that takes in quarterly program reports, extracts and validates the key fields, repairs what it can, sends the rest back to the sender, and waits for a manager's approval before saving the report and writing a summary for leadership.
 
 # Expected Outputs
-
-<img width="1805" height="683" alt="Screenshot 2026-11-20 at 11 08 26 AM" src="https://github.com/user-attachments/assets/cf244c7c-f749-4b02-b3c6-38dd1e0ff620" />
+Extraction
 <img width="1803" height="433" alt="Screenshot 2026-11-19 at 6 09 33 PM" src="https://github.com/user-attachments/assets/e7935097-18c0-4702-a957-591e60f3f1cb" />
+<img width="1805" height="683" alt="Screenshot 2026-11-20 at 11 08 26 AM" src="https://github.com/user-attachments/assets/cf244c7c-f749-4b02-b3c6-38dd1e0ff620" />
+
 <img width="1798" height="1033" alt="Screenshot 2026-11-19 at 5 55 11 PM" src="https://github.com/user-attachments/assets/f85b9faf-5c9d-49a1-9552-c404881a51ef" />
 <img width="1802" height="942" alt="Screenshot 2026-11-19 at 5 54 37 PM" src="https://github.com/user-attachments/assets/3fe8dfaa-6352-43dd-ab5a-4961c9321ab4" />
 
